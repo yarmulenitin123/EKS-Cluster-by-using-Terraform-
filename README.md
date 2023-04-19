@@ -4,3 +4,4 @@
 # changes vpc-subnet-id ex. subnet-071c84a637cea18c9
 # changes the EKS-Cluster name ex. TerraformEKScluster
 # changes the node-group subnets-id ex.subnet-071c84a637cea18c9
+# chnages the min. and mixmum node ex. min.=2 / mixmun= 4
